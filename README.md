@@ -1,4 +1,4 @@
-# Walkthrough Develpment
+# Walkthrough Development
 
 Linux:
 
@@ -38,3 +38,17 @@ Postgres:
 	- criar tabelas  e entender primary key, foreign key, index;
 	- Fazer inserção, atualização e exclusão de registros nesta tabela.
 	- listar tabelas, usuários via psql
+	
+Git e Github:
+	- TODO
+	
+Python:
+	- TODO
+	
+Odoo:
+	- TODO
+
+Ansible:
+	- TODO
+
+
