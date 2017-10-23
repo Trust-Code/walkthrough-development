@@ -40,10 +40,25 @@ Postgres:
 	- listar tabelas, usuários via psql
 	
 Git e Github:
-	- TODO
+	
+	- Saber clonar repositórios
+	- O que é fork?
+	- Comandos básicos, (init, add, commit, pull, checkout)
+	- Remotes
+ 	- Criar branchs e Pull Request
+	- Conhecer a ferramenta ungit.
 	
 Python:
-	- TODO
+
+	- para que serve o comando pip
+	- criando virtualenv
+	- criar e rodas scripts básicos.
+	- desafio: criar um script que faz conexão com um servidor via ssh e instala o nginx no mesmo.
+	- desafio: criar um script que insere dados no banco de dados instalado 
+	  dentro do docker. (ex: cadastrar cliente)
+	- desafio: criar um script que lê um arquivo csv e mostre quantidade colunas, 
+	  linhas, e gera um outro csv apenas com as linhas de número par.
+	
 	
 Odoo:
 	- TODO
